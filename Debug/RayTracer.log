@@ -1,0 +1,16 @@
+﻿  main.cpp
+d:\programowanie\c++\zaawansowana graika komputerowa\raytracer — kopia\raytracer\csphere.h(37): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\programowanie\c++\zaawansowana graika komputerowa\raytracer — kopia\raytracer\csphere.h(51): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\programowanie\c++\zaawansowana graika komputerowa\raytracer — kopia\raytracer\ctriangle.h(26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\programowanie\c++\zaawansowana graika komputerowa\raytracer — kopia\raytracer\raytracer.h(80): warning C4305: '-=': truncation from 'double' to 'float'
+d:\programowanie\c++\zaawansowana graika komputerowa\raytracer — kopia\raytracer\raytracer.h(77): warning C4101: 'foo': unreferenced local variable
+d:\programowanie\c++\zaawansowana graika komputerowa\raytracer — kopia\raytracer\raytracer.h(233): warning C4244: '=': conversion from 'double' to 'BYTE', possible loss of data
+d:\programowanie\c++\zaawansowana graika komputerowa\raytracer — kopia\raytracer\raytracer.h(234): warning C4244: '=': conversion from 'double' to 'BYTE', possible loss of data
+d:\programowanie\c++\zaawansowana graika komputerowa\raytracer — kopia\raytracer\raytracer.h(235): warning C4244: '=': conversion from 'double' to 'BYTE', possible loss of data
+d:\programowanie\c++\zaawansowana graika komputerowa\raytracer — kopia\raytracer\raytracer.h(288): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\programowanie\c++\zaawansowana graika komputerowa\raytracer — kopia\raytracer\raytracer.h(289): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\programowanie\c++\zaawansowana graika komputerowa\raytracer — kopia\raytracer\main.cpp(53): warning C4244: '=': conversion from 'double' to 'BYTE', possible loss of data
+d:\programowanie\c++\zaawansowana graika komputerowa\raytracer — kopia\raytracer\main.cpp(54): warning C4244: '=': conversion from 'double' to 'BYTE', possible loss of data
+d:\programowanie\c++\zaawansowana graika komputerowa\raytracer — kopia\raytracer\raytracer.h(157): warning C4715: 'CRayTrace::rayTrace': not all control paths return a value
+d:\programowanie\c++\zaawansowana graika komputerowa\raytracer — kopia\raytracer\csphere.h(95): warning C4715: 'CSphere::intersect': not all control paths return a value
+  RayTracer.vcxproj -> D:\Programowanie\C++\Zaawansowana Graika Komputerowa\RayTracer — kopia\RayTracer\Debug\RayTracer.exe
